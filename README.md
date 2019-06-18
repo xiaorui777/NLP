@@ -10,6 +10,11 @@
 
 ## 基于模式匹配的对话机器人
 
+## 基于概率的语言模型
+ 
+ - 1 gram language model
+ - 2 gram language model
+
 ## 动态规划：
 
  - part1: Rob Cutting
