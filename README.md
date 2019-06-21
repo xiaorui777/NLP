@@ -4,13 +4,17 @@
  
  - BFS（广度优先搜索）
 
+## 北京地铁线路图（assignment）
+ - web crawler（正则式和 beautiful soup）
+ - networkx
+
 ## 线性回归：
  
  - titanic项目
 
 ## 基于模式匹配的对话机器人
 
-## 基于概率的语言模型
+## 基于概率的语言模型(assignment)：
  
  - 1 gram language model
  - 2 gram language model
